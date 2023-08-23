@@ -12,7 +12,7 @@ ALLOWED_HOSTS = ['51.250.28.130', '127.0.0.1', 'localhost', 'kittykot1987.hopto.
 
 
 # Application definition
-
+cd
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
